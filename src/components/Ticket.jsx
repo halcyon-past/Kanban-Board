@@ -7,7 +7,7 @@ import NoPriority from '../assets/No-priority.svg';
 import Backlog from '../assets/Backlog.svg';
 import InProgress from '../assets/In-Progress.svg';
 import Done from '../assets/Done.svg';
-import ToDo from '../assets/To-Do.svg';
+import ToDo from '../assets/To-do.svg';
 import Cancelled from '../assets/Cancelled.svg';
 
 const getInitials = (name) => {
