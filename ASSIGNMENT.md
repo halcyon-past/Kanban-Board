@@ -6,19 +6,19 @@
 
 **Display state:** 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1a13657-9dc2-496d-a5c7-b27be15e9fe0/Untitled.png)
+![Untitled](./public/display-state.webp)
 
 **State based on display. - Grouping by user is selected.**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de6f9ade-433a-4185-a6df-4d396ea8be2d/Untitled.png)
+![Untitled](./public/state-based.webp)
 
 **Grouping by priority is selected.**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f8e52ba-2b96-40e8-be6a-34e25dd240eb/Untitled.png)
+![Untitled](./public/state-based.webp)
 
 **Card:**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/896834d4-fe3d-4db5-bd76-29049439b0cb/Untitled.png)
+![Untitled](./public/card.webp)
 
 **Api** :  https://api.quicksell.co/v1/internal/frontend-assignment 
 
@@ -63,7 +63,7 @@ Additionally, the application should save the user's view state even after page 
 
 **Assets**
 
-[Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/867c6222-5e73-49fb-b21f-a276ba2d258b/76bcb3fe-d025-4ad4-9247-e38c2935b859/Untitled.zip)
+[Asset Link](https://prod-files-secure.s3.us-west-2.amazonaws.com/867c6222-5e73-49fb-b21f-a276ba2d258b/76bcb3fe-d025-4ad4-9247-e38c2935b859/Untitled.zip)
 
 **Note:** 
 
