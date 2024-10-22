@@ -11,7 +11,7 @@ This is a task from QuickSell
     ```
 2. Go inside the folder
     ```bash
-    cd Kanban-Board
+    cd Kanban-Board-main
     ```
 3. Install All Dependencies
     ```bash
