@@ -2,7 +2,7 @@ import React from 'react';
 import Ticket from './Ticket';
 import Backlog from '../assets/Backlog.svg';
 import ToDo from '../assets/To-do.svg';
-import InProgress from '../assets/in-Progress.svg';
+import InProgress from '../assets/in-progress.svg';
 import Done from '../assets/Done.svg';
 import Cancelled from '../assets/Cancelled.svg';
 import UrgentPriority from '../assets/SVG - Urgent Priority grey.svg';

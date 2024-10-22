@@ -5,7 +5,7 @@ import MediumPriority from '../assets/Img - Medium Priority.svg';
 import LowPriority from '../assets/Img - Low Priority.svg';
 import NoPriority from '../assets/No-priority.svg';
 import Backlog from '../assets/Backlog.svg';
-import InProgress from '../assets/in-Progress.svg';
+import InProgress from '../assets/in-progress.svg';
 import Done from '../assets/Done.svg';
 import ToDo from '../assets/To-do.svg';
 import Cancelled from '../assets/Cancelled.svg';
